@@ -1,0 +1,40 @@
+
+.left {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    float: left;
+  }
+  .heading1{
+    text-align: center;
+    color: firebrick;
+    font-size: 25px;
+}
+.heading2{
+    color: rgb(10, 1, 1);
+    text-align: center;
+    
+}
+.card{
+    display:inline-block;
+       margin-top: 10px;
+        margin-right: 80px;
+        margin-left: 50px;  
+      
+    
+}
+.divcontact{
+    margin-top: 15px;
+    background-color: rgb(20, 236, 236);
+}
+.contactp{
+    color: firebrick;
+}
+.right{
+    float: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
